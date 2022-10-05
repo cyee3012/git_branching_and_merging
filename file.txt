@@ -1,1 +1,7 @@
 hello world!
+
+This is the content of the second_branch's file.txt
+
+A = 2 + 4
+B = 9 / 7
+C = a - b
